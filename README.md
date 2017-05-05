@@ -1,2 +1,2 @@
-# Bootstrap-Porfolio
-Porfolio Page that Uses Bootstrap CSS
+# Bootstrap-Portfolio
+Portfolio Page that uses Bootstrap CSS
